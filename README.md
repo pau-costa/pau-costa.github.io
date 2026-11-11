@@ -9,7 +9,7 @@ desenvolupat amb HTML, CSS i JavaScript.
 - index.html
 - css/styles.css
 - img/
-- js/
+- js/script.js
 
 ## Publicació
 La pàgina web està publicada mitjançant GitHub Pages.
