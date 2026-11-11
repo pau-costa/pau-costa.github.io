@@ -13,5 +13,5 @@ desenvolupat amb HTML, CSS i JavaScript.
 
 ## Publicació
 La pàgina web està publicada mitjançant GitHub Pages.
-Adreça: https://PauCosta1.github.io
+Adreça: https://pau-costa.github.io
 
